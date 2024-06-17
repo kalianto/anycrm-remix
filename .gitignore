@@ -34,4 +34,8 @@ certificates
 
 .vscode
 
+/.cache
+
 vite.config.js.timestamp*
+
+certs/
